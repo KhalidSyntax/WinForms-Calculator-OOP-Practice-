@@ -29,7 +29,7 @@ This separation keeps the project clean, maintainable, and easy to extend.
 ---
 
 ## 🖼️ Screenshot
-*assets/screenshot.png*
+![Calculator Screenshot](assets/screenshot.png)
 
 ---
 
